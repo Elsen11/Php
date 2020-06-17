@@ -5,7 +5,6 @@ class about extends controller
 
     public function index($nama = "Seth Rollins", $pekerjaan = "Pro Wrestler", $umur = 20)
     {
-
         $data['nama'] = $nama;
         $data['pekerjaan'] = $pekerjaan;
         $data['umur'] = $umur;

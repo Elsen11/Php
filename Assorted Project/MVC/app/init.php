@@ -7,3 +7,5 @@ require_once 'core/database.php';
 require_once 'core/Flasher.php';
 $app = new App();
 // $controller = new controller();
+
+
